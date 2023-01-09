@@ -15,7 +15,7 @@ if (localStorage.getItem("cities")) {
   cities;
 }
 
-//showLastCityInfo();
+
 console.log("cities", cities);
 
 // City searched and stored in local storage
@@ -48,10 +48,7 @@ $("#search-city").on("click", function (event) {
         showCityName(currentData);
         sendCityInfo(lat, lon);
       });
-      //showCityName(currentData);
-      //sendCityInfo(lat, lon);
-      //});
-      // console.log(currentData);
+      
       console.log(`
       _____Current Conditions_____
       Temp: ${Math.round(currentData.main.temp)} Cº
