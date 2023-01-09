@@ -1,7 +1,7 @@
 # Weather-App
 
 <picture>
-<img src="weather dashboard1.png">
+<img src="weather_dashboard1.png">
 </picture>
 
 ## Description
