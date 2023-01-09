@@ -22,6 +22,7 @@ https://deepasu1.github.io/Weather-App/
 Check code repo in path below
 https://github.com/DeepaSU1/Weather-App/blob/main/index.html 
 https://github.com/DeepaSU1/Weather-App/blob/main/js/script.js
+My API key : 19d5a0294a4c34e1cbd31fb4ff10474f
 
  
 

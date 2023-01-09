@@ -1,4 +1,4 @@
-var apiKey = 'abd3e178effe95c92c1e0d31d2eccc60';
+var apiKey = '19d5a0294a4c34e1cbd31fb4ff10474f';
 var city = 'London';
 var lastCitySearched;
 var storedCities;
