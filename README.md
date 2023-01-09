@@ -17,7 +17,7 @@ N/A
 ## Usage
 
 To use this web page, navigate to the above site using chrome browser.
-
+https://deepasu1.github.io/Weather-App/ 
 
 Check code repo in path below
 https://github.com/DeepaSU1/Weather-App/blob/main/index.html 
